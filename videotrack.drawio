@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-09T15:55:47.421Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1 Safari/605.1.15" etag="TX6PsW0mcfxFbxeZTR2k" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-10T03:31:18.594Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1 Safari/605.1.15" etag="hemWoLLSdkdR8jkz3FLB" version="14.5.1" type="github">
   <diagram id="LUWgopSz0b4NJ1lY-Evr" name="Page-1">
-    <mxGraphModel dx="946" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1186" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -59,7 +59,7 @@
         <mxCell id="5-l3gpzBWCDoj1tkfaAm-25" value="&lt;span&gt;RTCVideoSource&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="590" y="705" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5-l3gpzBWCDoj1tkfaAm-26" value="RTCVideoSource继承 RTCMediaSourcde&lt;br&gt;实现 RTCVideoCasptureDelegate" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=12;" parent="1" vertex="1">
+        <mxCell id="5-l3gpzBWCDoj1tkfaAm-26" value="RTCVideoSource继承 RTCMediaSourcde&lt;br&gt;实现 RTCVideoCaptureDelegate" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="255" y="786.5" width="160" height="98.5" as="geometry" />
         </mxCell>
         <mxCell id="5-l3gpzBWCDoj1tkfaAm-27" value="1.把VideoSource传给 VideoCapture" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=12;" parent="1" vertex="1">
