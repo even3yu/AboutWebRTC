@@ -218,7 +218,7 @@ ninja -C out/Release_armv64
 ### 7.1 编译release 包
 
 ```
-gn gen out/Release --args='is_debug=false target_cpu="x64" target_os="mac" is_component_build=false' --mac_deployment_target=10.15 --rtc_include_tests=true
+gn gen out/Release --args='is_debug=false target_cpu="x64" target_os="mac" is_component_build=false' --mac_deployment_target=10.15 --rtc_include_tests=false
 ```
 
 ### 7.2 编译debug 包
